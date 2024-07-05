@@ -1,4 +1,8 @@
 
 ## TODO
-- [ ] echo into files
-- [ ] Implement pattern matching and/or unwrap method
+<!-- echo into files is a shell thing not cliu thing-->
+<!-- nothing to do here but i tick anyways -->
+- [x] echo into files
+- [ ] implement flags
+- [ ] Implement pattern matching 
+- [ ] write imperial time analysis
